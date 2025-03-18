@@ -1,0 +1,8 @@
+services:
+  frontend:
+    image: frontend
+    build: ./frontend
+    ports:
+      - "80:80"
+    volumes:
+      - ./frontend:/app
