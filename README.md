@@ -1,0 +1,2 @@
+# VCard
+ Este projeto dá uso a Vue.js e Laravel para construir uma aplicação web reactive do estilo MBWay onde os clientes podem gerir o seu dinheiro, com gráficos de despesas e informações de despesas e ganhos, podendo enviar ou até mesmo pedir dinheiro aos seus amigos ou outros contactos. O administrador tem acesso a uma dashboard onde pode verificar várias estatísticas de utilização do seu website.
